@@ -1,7 +1,4 @@
 just another file
 with another line in it
-<<<<<<< HEAD
-and here we go
-=======
-merge conflict ahead
->>>>>>> origin/d-subat-patch-1
+and a third line
+123 -> 4
